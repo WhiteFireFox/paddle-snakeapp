@@ -1,26 +1,3 @@
-<br><br><br>
-<font size=9>**基于飞桨开发的《野外蛇谱》**</font>
-<br><br><br>
-
-<font size=6>**项目来源**</font>
-<br><br>
-&emsp;&emsp;&emsp;&emsp;<font size=5>我们知道毒蛇伤人事件在全世界范围内已造成相当一部分的死亡和受伤案例，这对于公众健康是一个重要的却又容易被忽视的影响因素。一部分人被蛇咬后无法准确地区分蛇的种类，无法知道蛇有毒与否，并且还因为不具备一定的自救知识而被蛇咬后不知所措。基于此，本项目基于飞桨开发了一款《野外蛇谱》的app，帮助人们在野外被蛇咬后准确识别蛇的种类，并精准判断蛇的毒性，提供自救方案，帮助人们在被蛇咬后的紧急处理。</font>
-<br><br><br>
-
-<font size=6>**项目效果**</font>
-<br><br>
-&emsp;&emsp;&emsp;<font size=5>app在判断蛇无毒情况下的反应</font>
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<font size=5>app在判断蛇有毒情况下的反应</font>
-<br><br>
-<img src="https://ai-studio-static-online.cdn.bcebos.com/026206e727de4dd28648fb09b5ea6df74924ad42a1b1481091c610216a3e3809" style="zoom:40%">
-&emsp;&emsp;&emsp;&emsp;&emsp;<img src="https://ai-studio-static-online.cdn.bcebos.com/49f78f892e2d4b2c97724100b247bded1a08d7b234ca48159d04e9f369e5560c" style="zoom:40%">
-<br><br><br>
-
-<font size=6>**演示视频**</font>
-<br><br>
-&emsp;&emsp;&emsp;&emsp;<font size=5>b站：[https://www.bilibili.com/video/BV1Zp4y1i7ug](http://)</font>
-<br><br><br>
-
 <font size=6>**实现方式：基于飞桨的ResNet50_vd_ssld模型**</font>
 <br><br><br>
 &emsp;&emsp;&emsp;&emsp;<font size=5>ResNet50_vd_ssld实现原理请移步到至官方介绍学习：</font><font size=5>[介绍](https://blog.csdn.net/weixin_45449540/article/details/106798605?ops_request_misc=%257B%2522request%255Fid%2522%253A%2522159512766219195239841908%2522%252C%2522scm%2522%253A%252220140713.130102334..%2522%257D&request_id=159512766219195239841908&biz_id=0&utm_medium=distribute.pc_search_result.none-task-blog-2~all~first_rank_ecpm_v3~pc_rank_v2-1-106798605.first_rank_ecpm_v3_pc_rank_v2&utm_term=ResNet50_vd_ssld)</font>
