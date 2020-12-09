@@ -1,5 +1,6 @@
 # paddle-snakeapp
-在野外探险时候被蛇咬了怎么办？来看看基于飞桨开发的《野外蛇谱》app吧
+
+&emsp;&emsp;&emsp;&emsp;<font size=5>在野外探险时候被蛇咬了怎么办？来看看基于飞桨开发的《野外蛇谱》app吧</font>
 
 <font size=6>**项目来源**</font>
 <br><br>
@@ -22,6 +23,6 @@
 &emsp;&emsp;&emsp;&emsp;<font size=5>b站：[https://www.bilibili.com/video/BV1Zp4y1i7ug](http://)</font>
 <br>
 
-<font size=6>**项目体验**</font>
+<font size=6>**源代码：**</font>
 <br><br>
 &emsp;&emsp;&emsp;&emsp;<font size=5>更完整更好的项目体验请访问AI Studio上作者的项目：</font>[项目](https://aistudio.baidu.com/aistudio/projectdetail/634777)
